@@ -49,3 +49,7 @@ flycheck_*.el
 
 
 custom.el
+
+.cache/
+.dap-breakpoints
+.lsp-*
